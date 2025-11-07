@@ -57,10 +57,10 @@ root@serwanyldz:~# whoami
 ## 🧩 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ServanYildiz-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/servanyildiz)
-[![Twitter](https://img.shields.io/badge/Twitter-%40serwanyldz-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/serwanyldz)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-ffffff?style=for-the-badge&logo=firefox)](https://serwanyldz.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-%40serwanyldz-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-ffffff?style=for-the-badge&logo=firefox)]()
 [![DockerHub](https://img.shields.io/badge/DockerHub-serwanyldz-2496ED?style=for-the-badge&logo=docker)](https://hub.docker.com/u/serwanyldz)
-[![Mail](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@serwanyldz.dev)
+[![Mail](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serwanyldz@gmail.com)
 
 ---
 
